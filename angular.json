@@ -13,8 +13,6 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "deployUrl": "https://createrteba.github.io/deploymydemoapp/",
-
             "outputPath": "dist/demodemo",
             "index": "src/index.html",
             "main": "src/main.ts",
